@@ -1,5 +1,5 @@
 # Alura
-Imersão dev
+Projetos e aprendizagens feitos na Imersão Dev da Alura (02/2023)
 
 
 # Sobre o autor:
